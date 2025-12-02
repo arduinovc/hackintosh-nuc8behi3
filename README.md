@@ -34,7 +34,7 @@ Actually, there is no Bluetooth support.
 ## Hardware
 
 __Laptop Toshiba Tecra Z50-A__  
-![Intel NUC8 Picture](/Assets/Intel-NUC8-BEH.jpeg "Intel NUC8 BEH")  
+![Intel NUC8 Picture](/Assets/Intel-NUC8-BEH.jpg "Intel NUC8 BEH")  
 [Datasheet Intel NUC8](/Assets/Intel-NUC8-BEH-Datasheet.pdf)  
 
 | Type	| Name                   |
