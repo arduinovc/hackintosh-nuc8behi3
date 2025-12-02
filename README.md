@@ -81,11 +81,7 @@ Touchpad : partially (need improvements / broken gestures)
 ## Screenshots
   
 ### macOS Ventura 13.6.4  
-Upgrade from Monterey to Ventura
-![Toshiba Tecra Z50 Monterey](/Assets/Ventura.png "Toshiba Tecra Z50")
-![Toshiba Tecra Z50 SystemInfo](/Assets/Ventura-SystemInfo.png "Toshiba Tecra Z50")
-![Toshiba Tecra Z50 SystemSettings](/Assets/Ventura-SystemSettings.png "Toshiba Tecra Z50")
-![Toshiba Tecra Z50 OCAuxiliaryTools](/Assets/Ventura-Launchpad.png "Toshiba Tecra Z50")
+To be captured.  
   
 ## Work to do
 
