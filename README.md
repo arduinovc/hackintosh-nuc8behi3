@@ -6,7 +6,7 @@ Last update: December 2nd 2025.
 
 EFI files based on OpenCore  
 OpenCore version: 1.0.6   
-Compatible macOS version: __Ventura 13.7.2__
+Compatible macOS version: macOS up to __Sequoia__
 
 ## How to use
 
@@ -18,7 +18,8 @@ Compatible macOS version: __Ventura 13.7.2__
 ### Important note: macOS Ventura
 
 At the moment, macOS Ventura is the latest macOS version running fine.  
-macOS Sonoma and Sequoia are compatible with Mac Mini 2018 but OpenCore won't boot.  
+macOS Sonoma should works with the right Airportitlwm (check Github).  
+macOS Sequoia works with Ventura Airportitlwm and OpenCore Legacy Patcher. See below :    
 
 ### Important note: Intel Wireless Card with Sequoia (work in progress)  
 
@@ -33,7 +34,7 @@ Actually, there is no Bluetooth support.
 
 ## Hardware
 
-__Intel NUC8 BEH I3__  
+__Laptop Toshiba Tecra Z50-A__  
 ![Intel NUC8 Picture](/Assets/Intel-NUC8-BEH.jpg "Intel NUC8 BEH")  
 [Datasheet Intel NUC8](/Assets/Intel-NUC8-BEH-Datasheet.pdf)  
 
@@ -80,8 +81,12 @@ Touchpad : partially (need improvements / broken gestures)
   
 ## Screenshots
   
-### macOS Ventura 13.6.4  
-To be captured.  
+### macOS Sequoia 15.7  
+![Intel NUC8 Info](/Assets/Info.png "Intel NUC8 BEH")  
+![Intel NUC8 Desktop](/Assets/Desktop.png "Intel NUC8 BEH")  
+![Intel NUC8 Safari](/Assets/Safari.png "Intel NUC8 BEH")  
+![Intel NUC8 Settings](/Assets/Settings.png "Intel NUC8 BEH")  
+
   
 ## Work to do
 
